@@ -39,7 +39,7 @@ app.get("/books/", async (request, response) => {
         book_id;
     `;
   const booksList = await db.all(getBooksQuery);
-
+  //it returns the promise object so we're using await keyword to wait until it reaches to resolved state
   response.send(booksList);
 });
 

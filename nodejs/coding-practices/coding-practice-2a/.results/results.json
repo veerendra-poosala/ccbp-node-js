@@ -1,0 +1,16 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "NJSCPKWIWO_TEST_1",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "NJSCPKWIWO_TEST_2",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "NJSCPKWIWO_TEST_3",
+      "evaluation_result": "INCORRECT"
+    }
+  ]
+}
